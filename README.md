@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá programadores
 
-<!--
-**Lucasdevalves/Lucasdevalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Esse local foi criado com a intenção de compartilhar nossos conhecimentos na programação e demais tecnologias de modo que possamos aprender de forma exponencial. Seja bem vindo(a)!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens usadas:
+- Pyton
+- C
+- Html
+- CSS
+
+```pyton
+if contratado == true
+    print('feliz e agradecido')
+else:
+    print('continuo na busca')
+
